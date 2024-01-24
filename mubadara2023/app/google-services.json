@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "343079631062",
+    "firebase_url": "https://mubadara-11733-default-rtdb.firebaseio.com",
+    "project_id": "mubadara-11733",
+    "storage_bucket": "mubadara-11733.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343079631062:android:6423d6e83cde6c3fe37177",
+        "android_client_info": {
+          "package_name": "com.mubadara.mubadara2023"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343079631062-j5riig6ls9rj66d2p9vmm5lbnhgta2lc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mubadara.mubadara2023",
+            "certificate_hash": "8873e6613c44cd2270caf4d8621e4fdeef5e0b9b"
+          }
+        },
+        {
+          "client_id": "343079631062-ffc843g126s1lik8im7jbqmig47on7rf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC0EcTnIqreF30Rw2Ahd1hMazJ8_sC5rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343079631062-ffc843g126s1lik8im7jbqmig47on7rf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name" translatable="false">mubadara2023</string>
+    <string name="home" translatable="false">Home</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="not_have_account_register" translatable="false">Not Have Account? <b><u>Register</u></b></string>
+    <string name="create_a_new_account" translatable="false">Create a New Account</string>
+    <string name="already_have_account_login" translatable="false">Already Have Account? <b><u>Login</u></b></string>
+
+    <string name="didnt" translatable="false">Didn\'t receive OTP? <b>Resend</b></string>
+    <string name="forgot_password_recover" translatable="false">Forgot Password? <b>Recover</b></string>
+
+    <string name="price_symbol" translatable="false">OMR</string>
+
+
+    <string name="google_app_id" translatable="false">1:1035469437089:android:73a4fb8297b2cd4f</string>
+
+
+    <string name="gcm_defaultSenderId" translatable="false">1035469437089</string>
+    <string name="default_web_client_id" translatable="false">337894902146-e4uksm38sne0bqrj6uvkbo4oiu4hvigl.apps.googleusercontent.com</string>
+
+    <string name="firebase_database_url" translatable="false">https://example-url.firebaseio.com</string>
+    <string name="google_api_key" translatable="false">AIzbSyCILMsOuUKwN3qhtxrPq7FFemDJUAXTyZ8</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzbSyCILMsOuUKwN3qhtxrPq7FFemDJUAXTyZ8</string>
+    <string name="project_id" translatable="false">mydemoapp</string>
+
+
+    <string name="google_map_api_key" translatable="false">AIzaSyDqB08njygT8rLzElnNpmX60JnFEjyAybo</string>
+
+
+</resources>
